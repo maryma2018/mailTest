@@ -1,0 +1,12 @@
+{
+    "emails":[ 
+        {"userName":"mailtestqa30@yeah.net","pwd":"a111111"},    
+        {"userName":"mailtestqa30@163.com","pwd":"a111111"},  
+	{"userName":"mailtestqa30@126.com","pwd":"a123456"},
+        {"userName":"mailtestqa30@yeah.net","pwd":"a111111"},
+        {"userName":"mmtest001@vip.163.com","pwd":"19870130"},
+        {"userName":"mmtest001@vip.126.com","pwd":"83568090"},
+        {"userName":"mmtest001@188.com","pwd":"83568090"},
+        {"userName":"mmtest002@sina.com","pwd":"a123456"}
+    ]
+}
